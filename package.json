@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-     "test": "jest"
+     "test": "node --test"
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/Akshayjain7208/Devops_assignment_exe_1/issues"
   },
-  "homepage": "https://github.com/Akshayjain7208/Devops_assignment_exe_1#readme",
-  "devDependencies": {
-    "jest": "^30.5.0"
-  }
+  "homepage": "https://github.com/Akshayjain7208/Devops_assignment_exe_1#readme"
 }
