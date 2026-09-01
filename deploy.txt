@@ -1,0 +1,12 @@
+Feature Branch
+↓
+Pull Request
+↓
+Run Tests
+↓
+Approval
+↓
+Merge
+↓
+Deploy
+this is deploy.txt file made using feature branch.
